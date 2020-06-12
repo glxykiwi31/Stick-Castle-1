@@ -12,7 +12,7 @@ function setup() {
   world = engine.world;
 
   wall = new Box(330,690,300,500);
-  ground = new Ground(80,720,1500,50);
+  ground = new Ground(400,750,800,50);
   rect1 = new Wall(100,600,100,400);
  rect2 = new Rect(560,600,100,400);
  square1 = new Sq(50,380,20,20);
